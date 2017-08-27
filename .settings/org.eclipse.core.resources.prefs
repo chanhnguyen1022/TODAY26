@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WEB-INF/src/fjs/cs/action/EditAction.java=UTF-8
+encoding//WEB-INF/src/fjs/cs/action/addAction.java=UTF-8
+encoding//WEB-INF/src/fjs/cs/action/form/CustomerForm.java=UTF-8
+encoding//WEB-INF/src/fjs/cs/action/form/EditForm.java=UTF-8
+encoding//WEB-INF/src/fjs/cs/action/form/SearchForm.java=UTF-8
+encoding//WEB-INF/src/fjs/cs/action/form/UserLoginForm.java=UTF-8
+encoding//WEB-INF/src/fjs/cs/dao/SearchDAO.java=UTF-8
+encoding//WEB-INF/src/fjs/cs/dao/UserLoginDAO.java=UTF-8
+encoding/edit.jsp=UTF-8
