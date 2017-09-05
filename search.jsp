@@ -57,6 +57,7 @@
 							<td><input type="text" name="customer_Name"></td>
 							<td style="size: 10%;">Sex:</td>
 							<td><select name="sex">
+									<option value="false">--choose--</option>
 									<option value="F">F</option>
 									<option value="M">M</option>
 							</select></td>
